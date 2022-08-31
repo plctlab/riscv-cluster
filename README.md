@@ -36,7 +36,8 @@ Current test plan:
   https://github.com/hpcg-benchmark/hpcg
 - HPL
   https://netlib.org/benchmark/hpl/ 
-
+- GROMACS
+  https://www.gromacs.org/ A free and open-source software suite for high-performance molecular dynamics and output analysis. 
 Please Submit a PR and append the software you want to run on our RISC-V clusters directly.
 
 
