@@ -1,9 +1,10 @@
 # riscv-cluster
+
 Towards a million-node RISC-V cluster.
 
-What software or demo do you want to run if you have a RISC-V cluster with more than 1024 RV64GC cores?
+What software or demo do you want to run if you have a RISC-V cluster with more than 1024 RV64GCV cores?
 
-
+```
 Hello everyone,
 
 We PLCT lab has purchased more than 1000 sets of RISC-V equipment (mainly Nezha/D1 development boards), and hope to be able to assemble a RISC-V cluster of ~1024 nodes with cheap network equipment. We hope that this cluster can be used to actually test whether relevant software in the field of high performance computing is ready to be deployed on RISC-V. Please note that this cluster is not intended to achieve performance demonstration. Nor are we using the latest or most powerful RISC-V computing equipment. This test is for feature availability or functional readiness.
@@ -41,4 +42,4 @@ Current test plan:
  
 Please Submit a PR and append the software you want to run on our RISC-V clusters directly.
 
-
+```
